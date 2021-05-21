@@ -2,4 +2,4 @@
 
 
 
-#dice roller and random number genrator app
+Dice Roller application in Flutter.
